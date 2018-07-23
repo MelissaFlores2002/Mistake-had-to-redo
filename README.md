@@ -46,23 +46,33 @@ This is for the creators, ranging from the hard core coders, to engineers, to ar
 # Weekly Milestone
 ## Week 1 - Usable Build
 Day 1 -
+
 Goal: Finish all storyboard views incuding contraints for at least the Login and Signup pages.
+
 What got finished ~
 
 Day 2 - 
+
 Goal: Connect all IBoutlets and connect to firebase.
+
 What got finished ~
 
 Day 3 - 
+
 Goal: Code in firebase 1/2 the code at least finished for the Login and Signup screens.
+
 What got finished ~
 
 Day 4 - 
+
 Goal: All Code and buttons connected along with firebase finished for all Login and Signup screens.
+
 What got finished ~
 
 Day 5 - 
+
 Goal: Polish, round corners, color palet, ect. Continue onto next views with code.
+
 What got finished ~
 
 Feedback on finished Login and Signup; 
@@ -70,46 +80,67 @@ Feedback on finished Login and Signup;
 ​
 ## Week2 - Finish Features
 Day 1 - 
+
 Goal:
+
 What got finished ~
 
 Day 2 - 
+
 Goal:
+
 What got finished ~
 
 Day 3 - 
+
 Goal:
+
 What got finished ~
 
 Day 4 - 
+
 Goal:
+
 What got finished ~
 
 Day 5 - 
+
 Goal:
+
 What got finished ~
 
 Feedback on ... 
 ​
 ## Week 4 - Polish
 Day 1 - 
+
 Goal:
+
 What got finished ~
 
 Day 2 - 
+
 Goal:
+
 What got finished ~
 
 Day 3 - 
+
 Goal:
+
 What got finished ~
 
 Day 4 - 
+
 Goal:
+
 What got finished ~
 
 Day 5 - 
+
 Goal:
+
 What got finished ~
+
 
 Feedback on ... 
