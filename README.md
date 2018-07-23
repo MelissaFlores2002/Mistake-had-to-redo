@@ -1,5 +1,5 @@
 # TeamBuilder
-The app is to help creators find projects in their town/city, wether they are a creator full time or its jsut a hobbie. This also reaches out to different types of creators, so there is not limit to what you can create!
+The app is to help creators find projects in their town/city, wether they are a creator full time or its just a hobbie. This also reaches out to different types of creators, so there is not limit to what you can create!
 ​
 ## Audience
 This is for the creators, ranging from the hard core coders, to engineers, to artists.They would use it to find a project to either put on the market or as a little side hobbie.
@@ -12,9 +12,9 @@ This is for the creators, ranging from the hard core coders, to engineers, to ar
 # Technical
 ## Models
 [What data are we dealing with? What classes will we create for that data?]
-- Firebase
-- CoreData Helpers
-- Coacoa Pods
+- user struct 
+- project create 
+- project add, and requests
 ​
 ## Views
 [What custom views do we need to create? Include pictures of your prototypes/sketches!]
@@ -26,8 +26,6 @@ This is for the creators, ranging from the hard core coders, to engineers, to ar
 - Create Project View
 - Clicked Project View
 - Profile View
-- Chat List View
-- Message View
 - Logout View
 
 ​
@@ -35,6 +33,15 @@ This is for the creators, ranging from the hard core coders, to engineers, to ar
 [What controllers will we need? What will they do?]
 - Navigation Controller
 - Tab Bar Controller, this controller will control the icons/views on the screen so you can click on one of the icons and it will take you to that view.
+- Login/Signup Controller, this controller will control the segues to the signup controller and login controller
+- Signup Contoller, this controller will use fire base to save all the data of the user so they could signin on the login screen, this will also segue to the your profile controller
+- Login Controller, this controller would let you enter in your pervious information that you put in the signup controller, this will also segue to the project controller
+- Your Profile Controller, this controller will let you input 3 creator types, based on your answer it will affect the project controller, will also segue to project controller
+- Project Controller, this controller will have a collection view of all the projects that appiled to your profile controller, clicking on a feed project will segue to the clicked project controller, clicking on the plus sign in on the top the screen will segue you to the create project controller
+- Clicked Project Controller, this controller will contain all that the user whom created its information on it, including why, name, porject, and who is needed, you can select forget which will take you back to the project Ccntroller, or add request which will segue you to the project controller
+- Created Project Controller, this controller will let you type in name, who you need, project, and why along with an image if wanted, confirming this project will put it in who you needs feed, canceling will segue you back to the project controller, once confirmed it will also segue you to project controller
+- Profile Controller, this controller will contain and hold all your project that you created and added, this will also look at who made add requests and if you were confirmed, by clicking on your created project or the added projet it will take you to the clicked project controller
+- Logout Controller, this controller will allow the user to signout of the app
 ​
 ## Other
 [Any other frameworks / things we will need? Helpers? Services?]
@@ -42,6 +49,7 @@ This is for the creators, ranging from the hard core coders, to engineers, to ar
 - Firebase
 - CoreData 
 - Table items
+- Coacoa Pods
 ​
 # Weekly Milestone
 ## Week 1 - Usable Build
