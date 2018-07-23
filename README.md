@@ -12,9 +12,9 @@ This is for the creators, ranging from the hard core coders, to engineers, to ar
 # Technical
 ## Models
 [What data are we dealing with? What classes will we create for that data?]
-Firebase
-CoreData Helpers
-Coacoa Pods
+- Firebase
+- CoreData Helpers
+- Coacoa Pods
 ​
 ## Views
 [What custom views do we need to create? Include pictures of your prototypes/sketches!]
@@ -33,15 +33,15 @@ Coacoa Pods
 ​
 ## Controllers
 [What controllers will we need? What will they do?]
-Navigation Controller
-Tab Bar Controller, this controller will control the icons/views on the screen so you can click on one of the icons and it will take you to that view.
+- Navigation Controller
+- Tab Bar Controller, this controller will control the icons/views on the screen so you can click on one of the icons and it will take you to that view.
 ​
 ## Other
 [Any other frameworks / things we will need? Helpers? Services?]
-Collection items
-Firebase
-CoreData 
-Table items
+- Collection items
+- Firebase
+- CoreData 
+- Table items
 ​
 # Weekly Milestone
 ## Week 1 - Usable Build
